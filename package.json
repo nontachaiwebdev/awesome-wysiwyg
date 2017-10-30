@@ -1,0 +1,8 @@
+{
+  "name": "awesome-wysiwyg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nontachaiwebdev/awesome-wysiwyg.git",
+  "author": "nontachaiwebdev <sutininter@gmail.com>",
+  "license": "MIT"
+}
