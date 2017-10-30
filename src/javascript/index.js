@@ -1,1 +1,1 @@
-alert('...')
+awesomeEditor.document.designMode = 'On'
